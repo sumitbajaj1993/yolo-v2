@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Annotations</folder>
+	<filename>I (198).jpg</filename>
+	<path>C:\Users\KD823ER\Desktop\images\darkflow-master\train\Annotations\I (198).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2610</width>
+		<height>4640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>barcode</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>607</xmin>
+			<ymin>1525</ymin>
+			<xmax>2397</xmax>
+			<ymax>2640</ymax>
+		</bndbox>
+	</object>
+</annotation>
